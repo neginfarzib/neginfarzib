@@ -26,11 +26,11 @@ Here are a few projects I'm proud of:
   [GitHub Repo](https://github.com/neginfarzib/JavaScript2-negin-farzib/tree/css-frameworks)
 
 - 🛒 Online Shop
-  A modern e-commerce app built with React/Next.js and TypeScript, featuring product search, dynamic product pages, cart management, and checkout flow with API integration.
+  A modern e-commerce app built with React and TypeScript, featuring product search, dynamic product pages, cart management, and checkout flow with API integration.
   [GitHub Repo](https://github.com/NoroffFEU/jsfw-2025-v1-negin-jsframeworks-ca)
 
 ## 🌐 Connect With Me
-- Portfolio:(https://neginfarzib.github.io/negin-farzib-portfolio-1/)
+- Portfolio:(https://neginfarzib.github.io/negin-farzib-Portfolio-2/)
 -  📧 : neginfarzib@gmail.com
 
 ## 💡 Skills
