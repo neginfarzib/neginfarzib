@@ -19,14 +19,17 @@ Here are a few projects I'm proud of:
 
 - 🦋 Butterfly Forum - JavaScript, Vanilla CSS, HTML
   A social media app where users can register, log in, create/edit/delete posts, follow profiles, search content, and react with emojis using API-driven data.
+  
   [GitHub Repo](https://github.com/neginfarzib/JavaScript2-negin-farzib)
 
 - 🦋 🎨 Butterfly Forum – JavaScript, Bootstrap, HTML
   A redesigned Bootstrap + Sass version of Butterfly Forum focused on improved UI/UX, responsive layouts, and cleaner component styling while keeping full social features.
+  
   [GitHub Repo](https://github.com/neginfarzib/JavaScript2-negin-farzib/tree/css-frameworks)
 
 - 🛒 Online Shop
   A modern e-commerce app built with React and TypeScript, featuring product search, dynamic product pages, cart management, and checkout flow with API integration.
+  
   [GitHub Repo](https://github.com/NoroffFEU/jsfw-2025-v1-negin-jsframeworks-ca)
 
 ## 🌐 Connect With Me
